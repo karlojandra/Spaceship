@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Zvukovi">
+        <file>quack.wav</file>
+        <file>mainsong.mp2</file>
+        <file>OOF.mp2</file>
+        <file>Mario.mp2</file>
+    </qresource>
+    <qresource prefix="/Slike">
+        <file>background.jpg</file>
+        <file>bullet.png</file>
+        <file>ship.png</file>
+        <file>asteroid.png</file>
+        <file>mainbackground.jpg</file>
+    </qresource>
+</RCC>
